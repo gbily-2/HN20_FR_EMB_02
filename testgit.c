@@ -14,7 +14,7 @@ void decrease(int a[], int n);
 
 int main()
 {
-	int i;
+	int i;	
 	int array[10] = {2,3,9,1,4,6,7,8,0,5};
 	decrease(array,10);
 	printf("sap xep giam:\n");
@@ -22,6 +22,8 @@ int main()
 	increase(array,10);
 	printf("sap xep tang:\n");
 	print_list(array,10);
+	/*Br01 test*/
+	printf("Hello Im Br01\n");
 }
 /*
 	function print array
