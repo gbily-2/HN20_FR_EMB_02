@@ -23,7 +23,7 @@ int main()
 	printf("sap xep tang:\n");
 	print_list(array,10);
 	/*Br01 test*/
-	printf("Im br 01");
+	printf("I am br 01");
 
 }
 /*
