@@ -22,7 +22,7 @@ int main()
 	increase(array,10);
 	printf("sap xep tang:\n");
 	print_list(array,10);
-
+}
 
 /*
 	function print array
