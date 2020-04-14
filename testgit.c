@@ -22,9 +22,7 @@ int main()
 	increase(array,10);
 	printf("sap xep tang:\n");
 	print_list(array,10);
-	/*Br02 test*/
-	printf("Hello Im Br02\n");
-	printf("I am br02");
+
 }
 /*
 	function print array
