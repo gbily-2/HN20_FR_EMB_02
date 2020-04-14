@@ -25,7 +25,7 @@ int main()
 	/*Br01 test*/
 	printf("Hello Im Br01\n");
 	/*test 01*/
-	printf("I am br01");
+	printf("I am Br1");
 }
 /*
 	function print array
