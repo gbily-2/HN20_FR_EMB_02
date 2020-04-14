@@ -24,6 +24,8 @@ int main()
 	print_list(array,10);
 	/*Br01 test*/
 	printf("Hello Im Br01\n");
+	/*test 01*/
+	printf("I am br01");
 }
 /*
 	function print array
